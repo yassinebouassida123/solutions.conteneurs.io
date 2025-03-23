@@ -1,4 +1,3 @@
-# solutions.conteneurs.io
 <!DOCTYPE html>
 <html lang="fr">
 <head>
